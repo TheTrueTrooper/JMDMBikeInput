@@ -31,7 +31,7 @@ namespace JMDMMountainBikeInput
             get => InputListenCom.IsOpen;
         }
 
-        internal MountBikeInput_Com(string ListenPort, int CylinderCount)
+        public MountBikeInput_Com(string ListenPort)
         {
             this.ListenPort = ListenPort;
             InputListenCom = new SerialPort(ListenPort, 9600, Parity.None, 8, StopBits.One);
@@ -39,7 +39,7 @@ namespace JMDMMountainBikeInput
 
         }
 
-        internal void OpenPortAndListen()
+        public void OpenPortAndListen()
         {
             if (!InputListenCom.IsOpen)
             {
@@ -99,7 +99,7 @@ namespace JMDMMountainBikeInput
                     case 'A':
                         {
                             string Value = "";
-                            for (byte i = 2; i < 8; i++)
+                            for (byte i = 2; i < 7; i++)
                                 Value += MessageType[i];
                             AngelDataReceivedEvent.Invoke(this, new AngelDataReceivedEventArgs(short.Parse(Value)));
                         }
@@ -107,7 +107,7 @@ namespace JMDMMountainBikeInput
                     case 'S':
                         {
                             string Value = "";
-                            for (byte i = 2; i < 6; i++)
+                            for (byte i = 2; i < 5; i++)
                                 Value += MessageType[i];
                             SpeedDataReceivedEvent.Invoke(this, new SpeedDataReceivedEventArgs(short.Parse(Value)));
                         }
@@ -133,8 +133,8 @@ namespace JMDMMountainBikeInput
             if (!Disposed)
             {
                 Disposed = true;
-                ListenerThread.Abort();
-                InputListenCom.Dispose();
+                ListenerThread?.Abort();
+                InputListenCom?.Dispose();
             }
         }
     }

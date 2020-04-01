@@ -12,7 +12,7 @@ namespace JMDMMountainBikeInput
 
         public byte CurrentInputWordState { get; private set; }
 
-        bool this[byte ButtonNumber]
+        public bool this[byte ButtonNumber]
         {
             get
             {
@@ -40,7 +40,7 @@ namespace JMDMMountainBikeInput
             }
         }
 
-        bool this[string ButtonNameOnMap]
+        public bool this[string ButtonNameOnMap]
         {
             get
             {
