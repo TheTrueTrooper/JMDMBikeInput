@@ -11,12 +11,12 @@ namespace JMDMMountainBikeInput
     public class MountBikeInput_Com : IDisposable
     {
         public delegate void InputDataReceivedEventHandler(object sender, InputDataReceivedEventArgs e);
-        public delegate void AngelDataReceivedEventHandler(object sender, AngelDataReceivedEventArgs e);
+        public delegate void AngleDataReceivedEventHandler(object sender, AngleDataReceivedEventArgs e);
         public delegate void SpeedDataReceivedEventHandler(object sender, SpeedDataReceivedEventArgs e);
 
-        public InputDataReceivedEventHandler InputDataReceivedEvent;
-        public AngelDataReceivedEventHandler AngelDataReceivedEvent;
-        public SpeedDataReceivedEventHandler SpeedDataReceivedEvent;
+        public event InputDataReceivedEventHandler InputDataReceivedEvent;
+        public event AngleDataReceivedEventHandler AngleDataReceivedEvent;
+        public event SpeedDataReceivedEventHandler SpeedDataReceivedEvent;
 
         internal SerialPort InputListenCom { set; get; }
 
@@ -101,7 +101,7 @@ namespace JMDMMountainBikeInput
                             string Value = "";
                             for (byte i = 2; i < 7; i++)
                                 Value += MessageType[i];
-                            AngelDataReceivedEvent.Invoke(this, new AngelDataReceivedEventArgs(short.Parse(Value)));
+                            AngleDataReceivedEvent.Invoke(this, new AngleDataReceivedEventArgs(short.Parse(Value)));
                         }
                         break;
                     case 'S':

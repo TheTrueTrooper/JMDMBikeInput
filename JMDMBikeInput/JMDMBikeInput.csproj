@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Events\AngelDataReceivedEventArgs.cs" />
+    <Compile Include="Events\AngleDataReceivedEventArgs.cs" />
     <Compile Include="Events\SpeedDataReceivedEventArgs.cs" />
     <Compile Include="Events\InputDataReceivedEventArgs.cs" />
     <Compile Include="MountBikeInput_Com.cs" />
