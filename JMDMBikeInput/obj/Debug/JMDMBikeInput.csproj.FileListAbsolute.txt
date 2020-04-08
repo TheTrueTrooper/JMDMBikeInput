@@ -3,3 +3,8 @@ C:\Users\The_Beast\Documents\GitHub\JMDMBikeInput\JMDMBikeInput\bin\Debug\JMDMMo
 C:\Users\The_Beast\Documents\GitHub\JMDMBikeInput\JMDMBikeInput\obj\Debug\JMDMBikeInput.csprojAssemblyReference.cache
 C:\Users\The_Beast\Documents\GitHub\JMDMBikeInput\JMDMBikeInput\obj\Debug\JMDMMountainBikeInput.dll
 C:\Users\The_Beast\Documents\GitHub\JMDMBikeInput\JMDMBikeInput\obj\Debug\JMDMMountainBikeInput.pdb
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInput\bin\Debug\JMDMMountainBikeInput.dll
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInput\bin\Debug\JMDMMountainBikeInput.pdb
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInput\obj\Debug\JMDMBikeInput.csprojAssemblyReference.cache
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInput\obj\Debug\JMDMMountainBikeInput.dll
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInput\obj\Debug\JMDMMountainBikeInput.pdb

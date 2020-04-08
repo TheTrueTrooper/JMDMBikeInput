@@ -1,0 +1,16 @@
+C:\Users\The_Beast\Documents\GitHub\JMDMBikeGameUDPInterface\JMDMBikeGameUDPInterface\bin\Debug\JMDMBikeGameUDPInterface.dll
+C:\Users\The_Beast\Documents\GitHub\JMDMBikeGameUDPInterface\JMDMBikeGameUDPInterface\bin\Debug\JMDMBikeGameUDPInterface.pdb
+C:\Users\The_Beast\Documents\GitHub\JMDMBikeGameUDPInterface\JMDMBikeGameUDPInterface\bin\Debug\JMDMGameUDPInterface.dll
+C:\Users\The_Beast\Documents\GitHub\JMDMBikeGameUDPInterface\JMDMBikeGameUDPInterface\bin\Debug\JMDMGameUDPInterface.pdb
+C:\Users\The_Beast\Documents\GitHub\JMDMBikeGameUDPInterface\JMDMBikeGameUDPInterface\obj\Debug\JMDMBikeGameUDPInterface.csprojAssemblyReference.cache
+C:\Users\The_Beast\Documents\GitHub\JMDMBikeGameUDPInterface\JMDMBikeGameUDPInterface\obj\Debug\JMDMBikeGameUDPInterface.csproj.CopyComplete
+C:\Users\The_Beast\Documents\GitHub\JMDMBikeGameUDPInterface\JMDMBikeGameUDPInterface\obj\Debug\JMDMBikeGameUDPInterface.dll
+C:\Users\The_Beast\Documents\GitHub\JMDMBikeGameUDPInterface\JMDMBikeGameUDPInterface\obj\Debug\JMDMBikeGameUDPInterface.pdb
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeGameUDPInterface\bin\Debug\JMDMBikeGameUDPInterface.dll
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeGameUDPInterface\bin\Debug\JMDMBikeGameUDPInterface.pdb
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeGameUDPInterface\bin\Debug\JMDMGameUDPInterface.dll
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeGameUDPInterface\bin\Debug\JMDMGameUDPInterface.pdb
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeGameUDPInterface\obj\Debug\JMDMBikeGameUDPInterface.csprojAssemblyReference.cache
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeGameUDPInterface\obj\Debug\JMDMBikeGameUDPInterface.csproj.CopyComplete
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeGameUDPInterface\obj\Debug\JMDMBikeGameUDPInterface.dll
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeGameUDPInterface\obj\Debug\JMDMBikeGameUDPInterface.pdb

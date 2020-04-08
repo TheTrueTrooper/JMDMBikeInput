@@ -1,0 +1,16 @@
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInputInterface\obj\Debug\JMDMBikeInputInterface.csprojAssemblyReference.cache
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInputInterface\bin\Debug\Config.json
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInputInterface\bin\Debug\JMDMBikeInputInterface.exe.config
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInputInterface\bin\Debug\JMDMBikeInputInterface.exe
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInputInterface\bin\Debug\JMDMBikeInputInterface.pdb
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInputInterface\bin\Debug\JMDMBikeGameUDPInterface.dll
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInputInterface\bin\Debug\JMDMGameUDPInterface.dll
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInputInterface\bin\Debug\JMDMMountainBikeInput.dll
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInputInterface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInputInterface\bin\Debug\JMDMBikeGameUDPInterface.pdb
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInputInterface\bin\Debug\JMDMMountainBikeInput.pdb
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInputInterface\bin\Debug\JMDMGameUDPInterface.pdb
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInputInterface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInputInterface\obj\Debug\JMDMBikeInputInterface.csproj.CopyComplete
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInputInterface\obj\Debug\JMDMBikeInputInterface.exe
+C:\Users\sovie\Desktop\JMDMBikeInput\JMDMBikeInputInterface\obj\Debug\JMDMBikeInputInterface.pdb

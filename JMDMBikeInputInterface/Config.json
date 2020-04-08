@@ -1,0 +1,7 @@
+{
+  "InputControlsComPort": "COM3",
+  "OutputServossComPort": "COM4",
+  "SendToGameUDPPort": 1200,
+  "ReceiveFromGameUDPPort": 5000,
+  "AngleCalibration": 1000
+}
